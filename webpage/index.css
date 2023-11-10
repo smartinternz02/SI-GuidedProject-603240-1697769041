@@ -1,0 +1,15 @@
+a:hover{
+    background-color: orange;
+    text-decoration-color: white;
+
+}
+div{
+    justify-content: center;
+}
+h1{
+    font-size: large;
+    text-decoration-color: white;
+}
+nav{
+    color: black;
+}
